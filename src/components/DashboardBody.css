@@ -1,0 +1,62 @@
+.Dashboard {
+    background-color: #E4DCCF;
+    border-radius: 5px;
+    min-height: 600px;
+    width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.Content {
+    padding-top: 0px ;
+    padding-bottom: 0%;
+}
+
+.button {
+    background-color: #E96A7E;
+    color: #F9F5EB;
+    border-radius: 12px;
+    border: 2px solid #EA5455;
+    padding: 12px 28px;
+    margin: 10px;
+}
+
+.button:hover {
+    background-color: #E23E57;
+    color: #ffff;
+}
+
+.button2 {
+    background-color: #F9F5EB;
+    color: #002B5B;
+    border-radius: 12px;
+    border: 2px solid #EA5455;
+    padding: 9px 20px;
+    margin: 10px;
+}
+
+.button2:hover {
+    background-color: #E23E57;
+    color: #ffff;
+}
+
+.input {
+    border: none;
+    border-bottom: 2px solid #EF97A4;
+    padding: 10px 10px;
+    margin: 5px;
+    background-color: #F9F5EB;
+}
+
+.input:focus {
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+.list{
+    list-style-image: url("../images/List-Icon-NoBG.png");
+}
+
+.req-list{
+    list-style-image: url("../images/req-icon-noBG.png");
+}
